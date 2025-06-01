@@ -1,4 +1,4 @@
-Control LEGO Mindstorms NXT device with nxt-python module
+Control LEGO Mindstorms NXT device with nxt-python module on Raspberry Pi 5
 
 - LEGO Mindstomes NXT   
   [https://www.lego.com/ja-jp/service/help-topics/article/lego-mindstorms-nxt-software-downloads](https://www.lego.com/ja-jp/service/help-topics/article/lego-mindstorms-nxt-software-downloads)
