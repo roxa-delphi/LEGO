@@ -13,3 +13,6 @@ Control LEGO Mindstorms NXT device with nxt-python module on Raspberry Pi 5
    % source lego/bin/activate
    %python -m pip install --upgrade nxt-python
 ```
+
+2. How to use   
+  [https://qiita.com/roxa/items/981e318c7a60daa9dbfe](https://qiita.com/roxa/items/981e318c7a60daa9dbfe)
